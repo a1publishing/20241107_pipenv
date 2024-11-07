@@ -1,3 +1,7 @@
 
 #
 $pip = "H:\dev\_py\20241107_pipenv"
+
+# 
+git push origin master
+git push github master
